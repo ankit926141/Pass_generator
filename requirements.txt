@@ -1,2 +1,1 @@
-String module
-A json file for saving all generated passwords.
+
